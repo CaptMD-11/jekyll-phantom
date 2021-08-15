@@ -1,6 +1,6 @@
 # (WIP) Phantom - Jekyll Theme
 
-My version of [Andrew Bnachich's Phantom jekyll theme](https://github.com/andrewbanchich/phantom-jekyll-theme). 
+My version of [Andrew Banchich's Phantom jekyll theme](https://github.com/andrewbanchich/phantom-jekyll-theme). 
 It includes slight improvments:
 - Post excerpts that work with html hero pictures
 - Gems that don't result in a bug issue for local hosting
