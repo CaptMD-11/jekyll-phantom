@@ -27,6 +27,7 @@ phone: 555-5555
 
 # Build settings
 markdown: kramdown
+github: [metadata]
 
 # Layout settings
 home-link-in-menu: yes
